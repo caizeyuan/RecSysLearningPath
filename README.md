@@ -78,7 +78,6 @@ graph TD
 <br/>
 
 ### 学术界发展
-<br/>
 
 * #### 大数据理论框架:
 
@@ -129,10 +128,10 @@ graph TD
     + <span style="background:grey;">2016.06</span>
 [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)
 
+<br/>
+
 
 ### 工业界发展
-
-<br/>
 
 * #### 大厂推荐业务实践:
 
@@ -167,7 +166,7 @@ graph TD
     + <span style="background:grey;">2018.06</span>
 [深度学习在美团搜索广告排序的应用实践](https://tech.meituan.com/2018/06/07/searchads-dnn.html)
 
-    + <span style="background:grey;">2018.03</span>
+    + <span style="background: #808080;">2018.03</span>
 [美团“猜你喜欢”深度学习排序模型实践](https://tech.meituan.com/2018/03/29/recommend-dnn.html)
 
     + <span style="background:grey;">2017.07</span>
