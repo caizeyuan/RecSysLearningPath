@@ -98,35 +98,38 @@ graph TD
 
 * #### 主流论文分享：
 
-    + `2020.10`
+    + `2020.10(DCN)`
 [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems](https://arxiv.org/abs/2008.13535)
 
-    + `2019.09`
+    + `2019.09(debias)`
 [Recommending what video to watch next: a multitask ranking system](https://dl.acm.org/doi/10.1145/3298689.3346997)
 
-    + `2018.07`
+    + `2018.07(embedding)`
 [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://dl.acm.org/doi/abs/10.1145/3219819.3219885)
 
-    + `2018.07`
+    + `2018.07(MMoE)`
 [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts](https://dl.acm.org/doi/10.1145/3219819.3220007)
 
-    + `2018.04`
+    + `2018.04(ESMM)`
 [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/abs/1804.07931)
 
-    + `2018.02`
+    + `2018.02(Latent Cross)`
 [Latent Cross: Making Use of Context in Recurrent Recommender Systems](https://dl.acm.org/doi/10.1145/3159652.3159727)
 
-    + `2017.06`
+    + `2017.06(DIN)`
 [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/abs/1706.06978)
 
-    + `2017.03`
+    + `2017.03(DeepFM)`
 [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/abs/1703.04247)
 
-    + `2016.11`
+    + `2016.11(PNN)`
 [Product-based Neural Networks for User Response Prediction](https://arxiv.org/abs/1611.00144)
 
-    + `2016.06`
+    + `2016.06(Wide&Deep)`
 [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)
+
+    + `2013.10(DSSM)`
+[Learning deep structured semantic models for web search using clickthrough data](https://dl.acm.org/doi/abs/10.1145/2505515.2505665?casa_token=B6XvSNuQL8AAAAAA:C0PNjejHEbCoff_wSL7gkMyscdchlOIGqQsYIOHpDF8ewnRvsrFWe4MSipM4ORqVs5w3AbJcVkTmyA)
 
 <br/>
 
